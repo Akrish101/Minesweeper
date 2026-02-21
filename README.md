@@ -25,4 +25,3 @@ Includes difficulty levels (1–5), first-click safety, timer, flag counter, bor
 ## Run
 ```bash
 python minesweeper.py
-
